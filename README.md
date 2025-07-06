@@ -1,9 +1,11 @@
-Welcome to the SOC Automation Project. 
+# 👋 Welcome to SOCForge
 
-The goal here is to start from nothing to a fully integrated SOAR solution incorporating Wazuh & TheHive for case management.
-The sky is the limit when it comes to automation and it is up to your creativity.
+**SOCForge** is a SOC automation framework I developed to build a fully functional SOAR (Security Orchestration, Automation, and Response) solution from the ground up.
 
-Use the link: https://m.do.co/c/e2ce5a05f701 <- To get a free $200 credit for the first 60 days with Digital Ocean 
+This project integrates powerful open-source tools — **Wazuh**, **Shuffle**, and **TheHive** — to simulate real-world SOC workflows, including log collection, alert generation, IOC enrichment, case management, and automated or analyst-driven response.
 
-Mimikatz
-https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
+The goal was to create a flexible, modular system where each stage of detection and response could be automated, enriched with intelligence, and executed with minimal overhead — while remaining fully transparent and educational.
+
+ Use my [DigitalOcean link](https://m.do.co/c/e2ce5a05f701) for **$200 free credit** for 60 days.
+
+Explore the project, test it in your own lab, and feel free to expand it as your needs grow — the sky is the limit when it comes to automation.
